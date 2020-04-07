@@ -1,0 +1,20 @@
+{
+  "name": "cypress_sportsdirect",
+  "version": "1.0.0",
+  "description": "Basic Test for Sportsdirect.pl",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lina90karo/cypress_sportsdirect.git"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "author": "Karolina Krzywanek",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "cypress": "^4.3.0"
+  }
+}
