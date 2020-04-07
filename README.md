@@ -1,9 +1,13 @@
 
 # Sportsdirect basic test using Cypress.io
 
-  
 
-Usage:
+### Test file location
+
+Main test file located in [cypress/integration/sportsdirect_spec.js](https://github.com/Lina90Karo/cypress_sportdirect/blob/master/cypress/integration/sportsdirect_spec.js)
+ 
+
+### Usage
 
 Clone this repo and install Cypress via 
 
@@ -16,7 +20,3 @@ Run with Cypress Dashboard and desktop browser
 Run in CLI with headless browser
 
     npm run cypress:run
-
-Main test file located in
-
-    cypress/integration/sportsdirect_spec.js
