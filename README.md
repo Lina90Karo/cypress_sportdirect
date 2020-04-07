@@ -1,11 +1,11 @@
 
-# Sportsdirect basic test using Cypresss.io
+# Sportsdirect basic test using Cypress.io
 
   
 
 Usage:
 
-Clone this repo and install Cypress.io via 
+Clone this repo and install Cypress via 
 
     npm install cypress
 
